@@ -1,2 +1,2 @@
 # SQL-Problem-Solving
-A repository that contains all my solution to SQL questions on LeetCode with MySQL syntax
+A repository that contains all my solutions to SQL questions on LeetCode with MySQL syntax
